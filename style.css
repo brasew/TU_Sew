@@ -1,25 +1,29 @@
 body {
-    body {
-    background: url('https://github.com/brasew/TU_Sew/blob/main/148204930-jezioro-cicely-ałtaj-syberia-wieczór-pochmurny-jesienny-dzień-tajga-piękne-niebo-mgła-góry-z.jpg') no-repeat center center fixed;
-    background-size: cover;
-    color: #FFD700; /* Żółty tekst dla kontrastu */
+    background-color: #600; /* Ciemna czerwień */
+    color: #FFD700; /* Ciepły żółty */
     font-family: Arial, sans-serif;
     text-align: center;
-}
-    
+    margin: 50px;
 }
 
 h1 {
-    color: #FFC300; /* Jasno-żółty dla kontrastu */
-    text-transform: uppercase;
+h1 {
+    background: url('twoj-obraz.jpg') no-repeat center;
+    background-size: cover;
+    padding: 50px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
 }
 
 p {
-    font-size: 24px;
+    font-size: 18px;
 }
+
 nav {
     background-color: #800000; /* Ciemna czerwień */
-    padding: 12px;
+    padding: 10px;
     position: fixed;
     width: 100%;
     top: 0;
