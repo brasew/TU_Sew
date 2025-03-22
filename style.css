@@ -1,0 +1,16 @@
+body {
+    background-color: #600; /* Ciemna czerwień */
+    color: #FFD700; /* Ciepły żółty */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: #FFC300; /* Jasno-żółty dla kontrastu */
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 18px;
+}
