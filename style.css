@@ -1,9 +1,12 @@
 body {
-    background-color: #600; /* Ciemna czerwień */
-    color: #FFD700; /* Ciepły żółty */
+    body {
+    background: url('twoj-obraz.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #FFD700; /* Żółty tekst dla kontrastu */
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 50px;
+}
+    
 }
 
 h1 {
